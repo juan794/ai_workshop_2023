@@ -5,7 +5,7 @@
 - Part 2 - Deep Learning and Computer Vision Basics ([here](#))
 
 ## Exercise
-- Dataset ([here](#))
+- Dataset ([here](https://github.com/albahnsen/PracticalMachineLearningClass/raw/master/datasets/dataTrain_carListings.zip))
 - Details ([here](./ml_workshop_hw1.ipynb))
 
 ## Award
