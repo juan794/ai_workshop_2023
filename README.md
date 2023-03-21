@@ -10,7 +10,5 @@
 
 ## Award
 Best project will be awarded with the book: Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD
-
 by Jeremy Howard and Sylvain Gugger
-
-![image](https://user-images.githubusercontent.com/5441052/226577112-c677c8d2-ae23-4681-af0a-0bc075afa445.png)
+![image](https://user-images.githubusercontent.com/5441052/226577272-af717066-797a-46ac-9b64-53d1f5d7d1be.png)
