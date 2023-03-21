@@ -1,4 +1,7 @@
 # Computer Vision and AI Workshop 2023
+Rejeski Security Labs
+
+https://rejewski-seclabs.org
 
 ## Content
 - Part 1 - ML Basics ([here](./ml_workshop_part_1.ipynb))
