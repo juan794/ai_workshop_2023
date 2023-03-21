@@ -1,6 +1,6 @@
 # Computer Vision and AI Workshop 2023 
 
-![image](https://user-images.githubusercontent.com/5441052/226579941-2c031aa3-88ca-47a6-a58d-009978e61697.png)
+![image](https://user-images.githubusercontent.com/5441052/226580197-fc803ac6-1b0b-427d-8d48-2ed674ecdb06.png)
 
 ## Content
 - Part 1 - ML Basics ([here](./ml_workshop_part_1.ipynb))
